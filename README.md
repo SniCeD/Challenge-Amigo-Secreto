@@ -2,7 +2,7 @@
 
 Esta es una aplicación web para realizar un sorteo de "Amigo Secreto". Los usuarios pueden ingresar nombres de amigos en una lista y luego realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
 
-![Pagina Amigo Secreto](assets/Pagina.jpg)
+![Pagina Amigo Secreto](assets/Pagina.JPG)
 
 ## Funcionalidades
 
